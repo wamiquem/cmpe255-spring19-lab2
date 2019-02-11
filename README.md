@@ -1,2 +1,3 @@
 # cmpe255-spring19-lab2
-repo for lab2 assignment of cmpe255
+
+For mean and median program, I have calculated mean and median  by implenting the actual logic as well as I have used python numpy library
